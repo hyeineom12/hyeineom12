@@ -16,8 +16,15 @@
 
 ---
 
+### 🎓 Education
+
+- **Dongduk Women's University**  
+  B.A. in **Data Science** (2023 – Present)  
+  Double Major in **Information Statistics** (Since 2024)
+
+---
+
 ### 🌐 Links
 
 - 👩🏻‍💻 [Notion Portfolio](https://www.notion.so/Eom-Hyein-c6fa6897bec34224b51f90673a9ae395?source=copy_link)  
-- ✉️ Mail: [eomhyein04@gmail.com](mailto:eomhyein04@gmail.com)  
 
