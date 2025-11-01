@@ -28,3 +28,8 @@
 
 - 👩🏻‍💻 [Notion Portfolio](https://www.notion.so/Eom-Hyein-c6fa6897bec34224b51f90673a9ae395?source=copy_link)  
 
+---
+
+### 🌐 자격증
+- **ADsP(데이터분석 준전문가)**
+- **SQLD(SQL 개발자)**
