@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Hyein!
 
 모자람이 많지만 노력으로 빠르게 채워나가는 **데이터사이언티스트**를 꿈꾸는 **엄혜인**입니다.  
-데이터를 통해 문제를 이해하고, 분석과 모델링으로 해결책을 제시하는 과정에 큰 흥미를 가지고 있습니다.
 
 ---
 
@@ -19,8 +18,8 @@
 
 ### 🌐 Links
 
-- 🧭 [Notion Portfolio]([https://www.notion.so/](https://www.notion.so/Eom-Hyein-c6fa6897bec34224b51f90673a9ae395?source=copy_link))  
-- ✉️ Contact: [eomhyein04@gmail.com](mailto:your-email@example.com)  
+- 🧭 [Notion Portfolio](https://www.notion.so/Eom-Hyein-c6fa6897bec34224b51f90673a9ae395?source=copy_link))  
+- ✉️ Mail: [eomhyein04@gmail.com](mailto:eomhyein04@gmail.com)  
 
 ---
 
